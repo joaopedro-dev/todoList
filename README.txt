@@ -1,2 +1,2 @@
 aFazeres: 
-  is a "Todo List" code in responive website using Bootstrap CDN and JSON+localstorage for save.
+  It is a "Todo List" code with Bootstrap CDN for a responsive and JSON+localstorage for save that.
