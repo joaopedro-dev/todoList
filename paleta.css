@@ -18,11 +18,11 @@ input{
 }
 #btn{
     font-size: 20px;
-    border: solid 1px #ffffff;
+    border: solid 1px #2fe2d3;
     border-radius: 8px;
 }
 #btndel{
     font-size: 20px;
-    border: solid 1px #ffffff;
+    border: solid 1px #f50b0b;
     border-radius: 8px;
 }
