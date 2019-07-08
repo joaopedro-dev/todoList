@@ -1,5 +1,3 @@
-alert('ATUALIZADO!');
-
 var listElement = document.getElementById('out');
 var inputElement = document.getElementById('inp');
 var btnElement = document.getElementById('btn');
